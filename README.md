@@ -11,7 +11,7 @@ How should you teach complex computer science? Dont Teach it
 
 What did the ocean say to the beach? Wave Noises
 
-What type of cheese do you use if you need to hide a horse? Goat Cheese
+What type of cheese do you use if you need to hide a horse? Horse Cheese
 
 What type of cheese is made backwards? Mature Cheddar
 
